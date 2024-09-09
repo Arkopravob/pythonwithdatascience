@@ -19,3 +19,7 @@ print(e.replace("buddy","Arko"))
 print(e.split(" "))
 #captilize for first letter in strings use .capwords()
 print(string.capwords(e))
+print(e.capitalize())
+
+print(e.count("coder"))
+print()
