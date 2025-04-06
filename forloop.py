@@ -1,5 +1,2 @@
-# for i  in range(5):
-#     print(i)
-
-for a  in range(1,6):
-    print("hi arko")
+for i in range(10):
+    print(i)
