@@ -7,3 +7,11 @@ print(b//a)
 print(b**2)
 num = 4*5+9-2/4+(9+19)
 print(num)
+#Asignment operator
+
+x = 5
+x += 3
+print(x)
+y = 6
+y//=2
+print(y)

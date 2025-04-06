@@ -23,3 +23,12 @@ print(e.capitalize())
 
 print(e.count("coder"))
 print()
+
+a = "Hello world!"
+print(a)
+#length
+
+print("Hello" in a)
+
+print(a.strip())
+print(a.replace('H','j'))
